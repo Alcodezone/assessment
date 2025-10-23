@@ -1,0 +1,14 @@
+# Assessment Project
+
+## Environment  
+- **Node.js version:** _e.g._ `v18.17.1`  
+- **npm version:** _e.g._ `9.6.7`  
+
+## Setup  
+```bash
+# Clone the repository  
+git clone https://github.com/Alcodezone/assessment.git  
+cd assessment  
+
+# Install dependencies  
+npm install  
